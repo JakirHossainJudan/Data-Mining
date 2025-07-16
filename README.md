@@ -2,14 +2,23 @@
 The script loads the Iris dataset and applies several machine learning classification techniques to distinguish between three species of Iris flowers based on petal and sepal measurements.
 
 ✅ Features:
+
 Data loading and preprocessing
+
 Data visualization (optional with matplotlib/seaborn)
+
 Train-test split
+
 Implementation and evaluation of the following models:
+
 K-Nearest Neighbors (KNN)
+
 Logistic Regression
+
 Naive Bayes
+
 Random Forest
+
 AdaBoost with Decision Tree
 
 🛠 Libraries Used:
